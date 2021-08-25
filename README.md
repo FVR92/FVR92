@@ -2,7 +2,7 @@
 <img src="https://github.com/FVR92/FVR92/blob/main/Bio%20immage.png" align="center" style="width: 100%" />
 </div>  
 
-# <div align="center">P.h.D. Clinical Psychologyst with a passion for Data Analysis and Technology 🧠🎮👾🖥️</div>  
+# <div align="center">P.h.D. Clinical Psychologist with a passion for Data Analysis and Technology 🧠🎮👾🖥️</div>  
   
 
 - 🔭 I’m currently working on a new psychometrical instrument assessing subjective aging to rejuvenate people   
